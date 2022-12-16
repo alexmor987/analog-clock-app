@@ -1,4 +1,6 @@
 # Analog clock using react
+I implemented this image analog clock using React.js
+(a clock with only a second hand).
 
 ## Available Scripts
 
